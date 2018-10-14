@@ -6,6 +6,8 @@
 - test
 .- test
 
+n<sub>0</sub>
+
 #Matthew Parnham
 #2287511
 #parnham@chapman.edu
