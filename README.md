@@ -1,5 +1,11 @@
 # CPSC350
 
+* test
+* test
+- test
+- test
+.- test
+
 #Matthew Parnham
 #2287511
 #parnham@chapman.edu
