@@ -4,11 +4,6 @@ Simple DNA Analyzer that is implemented without using any data structures.
 _Given two functions, f(n) and g(n), f(n) = O(g(n)) if there exists two constants c and n<sub>0</sub> such that f(n) <= c*g(n) for all n > n<sub>0</sub>_
 
 
-#Matthew Parnham
-#2287511
-#parnham@chapman.edu
-
-
 
 #Resources
 #https://gehrcke.de/2011/06/reading-files-in-c-using-ifstream-dealing-correctly-with-badbit-failbit-eofbit-and-perror/
